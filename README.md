@@ -6,7 +6,7 @@
 <!--  -->
 
 🔭 I’m currently studying at <strong>NSBM Green University</strong> <br/>
-🌱 I’m currently studying <strong>Business Analytics, Web and Mobile application development</strong> <br/>
+🌱 I’m currently learning <strong>Business Analytics, Web and Mobile application development</strong> <br/>
 👯 I’m looking to collaborate <strong>open source and commercial projects</strong> <br/>
 
 
