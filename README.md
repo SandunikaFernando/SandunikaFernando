@@ -3,6 +3,7 @@
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandunikaFernando&color=brightgreen" alt="SandunikaFernando" /> </p>
+
 <!--
 **SandunikaFernando/SandunikaFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
 -  :computer: I’m currently learning <b>Business Analytics,</b><b>Web Applications Development</b> & <b>Mobile Applications Development</b><br>
@@ -24,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p>
-   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
