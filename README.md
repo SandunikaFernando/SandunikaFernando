@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio) -->
 <!--![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  -->
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
  <!-- <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
