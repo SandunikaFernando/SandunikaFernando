@@ -78,7 +78,6 @@ Here are some ideas to get you started:
 
 ![Sandunika's github stats](https://github-readme-stats.vercel.app/api?username=SandunikaFernando&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandunikaFernando&layout=compact&langs_count=8&theme=light)
-
 <br />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SandunikaFernando" alt="SandunikaFernando" /></a> </p> -->
